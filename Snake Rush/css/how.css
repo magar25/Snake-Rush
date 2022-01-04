@@ -1,0 +1,52 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
+
+
+ *{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+
+
+body{
+     background: url("../img/help.jpg"); 
+     
+     background-size: cover; 
+    }
+
+
+#how{
+      color: white;
+      font-family: cursive;
+      margin-left: 38%;
+}
+    
+/* text for single player help */
+    
+#single{
+    color: white;
+    font-family: cursive;
+    
+  }
+  
+  
+  h3{
+    color: white;
+  }
+  
+
+  /* text for pvp help */
+  
+  #pvp{
+    color: white;
+    font-family: cursive;
+  }
+
+ /* for main menu */
+
+  #mm{
+    margin-left:  43%;
+    margin-top: 5%;
+  }

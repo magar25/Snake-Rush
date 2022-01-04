@@ -1,0 +1,58 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+body{
+    background: url('../img/main.jpg');
+     background-size: cover;
+}
+
+h1{
+  padding-top: 7%;
+}
+
+
+#welcome{
+  color: white;
+  margin-left: 33%;
+  font-family: cursive;
+  
+}
+
+
+
+.tablerow{
+    color: white;
+    margin-left:25%;
+    font-family: cursive;
+  
+  }
+  
+  
+  .tb{
+    color: white;
+    padding: 5%;
+  }
+
+  #ps{
+     
+      padding: 10px;
+  }
+
+  #n{
+    margin-right: 2%;
+    
+  }
+
+  #s{
+    padding: 5%;
+  }
+  
+  
